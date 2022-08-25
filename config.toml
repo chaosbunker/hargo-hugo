@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://archangelfire.com"
+baseURL = "https://2vowcoubnvyuvq.instant.forestry.io"
 languageCode = "en"
 title = "Hargo | Hugo Ecommerce Site"
 theme = "hargo-hugo"
@@ -85,7 +85,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Archangel Fire"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -96,7 +96,7 @@ googleAnalyticsID = "" # Your ID
 # Contact Information
 mobile = "0124857985320"
 email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+location = "Hamburg, Germany"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
